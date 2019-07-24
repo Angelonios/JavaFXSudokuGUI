@@ -30,10 +30,10 @@
                 <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
               </rowConstraints>
                <children>
-                  <Button fx:id="one" focusTraversable="false" maxHeight="35.0" maxWidth="35.0" minHeight="35.0" minWidth="35.0" mnemonicParsing="false" onMouseClicked="#enterNumberFromNumpad" prefHeight="35.0" prefWidth="35.0" text="1" />
                   <Button fx:id="two" focusTraversable="false" maxHeight="35.0" maxWidth="35.0" minHeight="35.0" minWidth="35.0" mnemonicParsing="false" onMouseClicked="#enterNumberFromNumpad" prefHeight="35.0" prefWidth="35.0" text="2" GridPane.columnIndex="1" />
                   <Button fx:id="three" focusTraversable="false" maxHeight="35.0" maxWidth="35.0" minHeight="35.0" minWidth="35.0" mnemonicParsing="false" onMouseClicked="#enterNumberFromNumpad" prefHeight="35.0" prefWidth="35.0" text="3" GridPane.columnIndex="2" />
                   <Button fx:id="four" focusTraversable="false" maxHeight="35.0" maxWidth="35.0" minHeight="35.0" minWidth="35.0" mnemonicParsing="false" onMouseClicked="#enterNumberFromNumpad" prefHeight="35.0" prefWidth="35.0" text="4" GridPane.rowIndex="1" />
+                  <Button fx:id="one" focusTraversable="false" maxHeight="35.0" maxWidth="35.0" minHeight="35.0" minWidth="35.0" mnemonicParsing="false" onMouseClicked="#enterNumberFromNumpad" prefHeight="35.0" prefWidth="35.0" text="1" />
                   <Button fx:id="five" focusTraversable="false" maxHeight="35.0" maxWidth="35.0" minHeight="35.0" minWidth="35.0" mnemonicParsing="false" onMouseClicked="#enterNumberFromNumpad" prefHeight="35.0" prefWidth="35.0" text="5" GridPane.columnIndex="1" GridPane.rowIndex="1" />
                   <Button fx:id="six" focusTraversable="false" maxHeight="35.0" maxWidth="35.0" minHeight="35.0" minWidth="35.0" mnemonicParsing="false" onMouseClicked="#enterNumberFromNumpad" prefHeight="35.0" prefWidth="35.0" text="6" GridPane.columnIndex="2" GridPane.rowIndex="1" />
                   <Button fx:id="seven" focusTraversable="false" maxHeight="35.0" maxWidth="35.0" minHeight="35.0" minWidth="35.0" mnemonicParsing="false" onMouseClicked="#enterNumberFromNumpad" prefHeight="35.0" prefWidth="35.0" text="7" GridPane.rowIndex="2" />
